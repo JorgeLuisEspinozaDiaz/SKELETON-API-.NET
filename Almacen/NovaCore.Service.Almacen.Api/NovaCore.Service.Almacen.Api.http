@@ -1,0 +1,6 @@
+@NovaCore.Service.Almacen.Api_HostAddress = http://localhost:5274
+
+GET {{NovaCore.Service.Almacen.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

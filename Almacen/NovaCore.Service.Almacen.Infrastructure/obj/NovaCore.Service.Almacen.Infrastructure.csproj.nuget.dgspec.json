@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Infrastructure/NovaCore.Service.Almacen.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Application/NovaCore.Service.Almacen.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Application/NovaCore.Service.Almacen.Application.csproj",
+        "projectName": "NovaCore.Service.Almacen.Application",
+        "projectPath": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Application/NovaCore.Service.Almacen.Application.csproj",
+        "packagesPath": "/Users/isw13/.nuget/packages/",
+        "outputPath": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/isw13/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/NovaCore.Service.Almacen.Core.csproj": {
+                "projectPath": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/NovaCore.Service.Almacen.Core.csproj"
+              },
+              "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/NovaCore.Common.Application.csproj": {
+                "projectPath": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/NovaCore.Common.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/NovaCore.Service.Almacen.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/NovaCore.Service.Almacen.Core.csproj",
+        "projectName": "NovaCore.Service.Almacen.Core",
+        "projectPath": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/NovaCore.Service.Almacen.Core.csproj",
+        "packagesPath": "/Users/isw13/.nuget/packages/",
+        "outputPath": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/isw13/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/NovaCore.Common.Application.csproj": {
+                "projectPath": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/NovaCore.Common.Application.csproj"
+              },
+              "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Core/NovaCore.Common.Core.csproj": {
+                "projectPath": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Core/NovaCore.Common.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Infrastructure/NovaCore.Service.Almacen.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Infrastructure/NovaCore.Service.Almacen.Infrastructure.csproj",
+        "projectName": "NovaCore.Service.Almacen.Infrastructure",
+        "projectPath": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Infrastructure/NovaCore.Service.Almacen.Infrastructure.csproj",
+        "packagesPath": "/Users/isw13/.nuget/packages/",
+        "outputPath": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/isw13/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Application/NovaCore.Service.Almacen.Application.csproj": {
+                "projectPath": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Application/NovaCore.Service.Almacen.Application.csproj"
+              },
+              "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/NovaCore.Service.Almacen.Core.csproj": {
+                "projectPath": "/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/NovaCore.Service.Almacen.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/NovaCore.Common.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/NovaCore.Common.Application.csproj",
+        "projectName": "NovaCore.Common.Application",
+        "projectPath": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/NovaCore.Common.Application.csproj",
+        "packagesPath": "/Users/isw13/.nuget/packages/",
+        "outputPath": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/isw13/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Core/NovaCore.Common.Core.csproj": {
+                "projectPath": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Core/NovaCore.Common.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Core/NovaCore.Common.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Core/NovaCore.Common.Core.csproj",
+        "projectName": "NovaCore.Common.Core",
+        "projectPath": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Core/NovaCore.Common.Core.csproj",
+        "packagesPath": "/Users/isw13/.nuget/packages/",
+        "outputPath": "/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/isw13/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

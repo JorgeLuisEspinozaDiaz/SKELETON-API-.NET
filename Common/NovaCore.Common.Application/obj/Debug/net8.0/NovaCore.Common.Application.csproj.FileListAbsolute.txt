@@ -1,0 +1,15 @@
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/bin/Debug/net8.0/NovaCore.Common.Application.deps.json
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/bin/Debug/net8.0/NovaCore.Common.Application.dll
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/bin/Debug/net8.0/NovaCore.Common.Application.pdb
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/NovaCore.Common.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/NovaCore.Common.Application.AssemblyInfoInputs.cache
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/NovaCore.Common.Application.AssemblyInfo.cs
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/NovaCore.Common.Application.csproj.CoreCompileInputs.cache
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/NovaCore.Common.Application.dll
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/refint/NovaCore.Common.Application.dll
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/NovaCore.Common.Application.pdb
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/ref/NovaCore.Common.Application.dll
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/bin/Debug/net8.0/NovaCore.Common.Core.dll
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/bin/Debug/net8.0/NovaCore.Common.Core.pdb
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/NovaCore.Common.Application.csproj.AssemblyReference.cache
+/Users/isw13/Desktop/skeleton/Common/NovaCore.Common.Application/obj/Debug/net8.0/NovaCore.340FFBF1.Up2Date

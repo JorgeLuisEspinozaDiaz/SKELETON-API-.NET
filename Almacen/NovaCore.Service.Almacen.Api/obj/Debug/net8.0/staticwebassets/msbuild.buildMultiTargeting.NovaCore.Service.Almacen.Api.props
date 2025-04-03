@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/NovaCore.Service.Almacen.Api.props" />
+</Project>

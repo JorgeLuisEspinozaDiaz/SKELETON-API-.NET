@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fHhqF40zJxSrALzWg/eEumzz0sFPVKsNvOk8mH+XvSk=",
+  "Source": "NovaCore.Service.Almacen.Api",
+  "BasePath": "_content/NovaCore.Service.Almacen.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

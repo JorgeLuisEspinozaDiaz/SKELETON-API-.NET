@@ -1,0 +1,17 @@
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/bin/Debug/net8.0/NovaCore.Service.Almacen.Core.deps.json
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/bin/Debug/net8.0/NovaCore.Service.Almacen.Core.dll
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/bin/Debug/net8.0/NovaCore.Service.Almacen.Core.pdb
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/NovaCore.Service.Almacen.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/NovaCore.Service.Almacen.Core.AssemblyInfoInputs.cache
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/NovaCore.Service.Almacen.Core.AssemblyInfo.cs
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/NovaCore.Service.Almacen.Core.csproj.CoreCompileInputs.cache
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/NovaCore.Service.Almacen.Core.dll
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/refint/NovaCore.Service.Almacen.Core.dll
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/NovaCore.Service.Almacen.Core.pdb
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/ref/NovaCore.Service.Almacen.Core.dll
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/bin/Debug/net8.0/NovaCore.Common.Application.dll
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/bin/Debug/net8.0/NovaCore.Common.Core.dll
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/bin/Debug/net8.0/NovaCore.Common.Core.pdb
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/bin/Debug/net8.0/NovaCore.Common.Application.pdb
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/NovaCore.Service.Almacen.Core.csproj.AssemblyReference.cache
+/Users/isw13/Desktop/skeleton/Almacen/NovaCore.Service.Almacen.Core/obj/Debug/net8.0/NovaCore.90B59556.Up2Date
